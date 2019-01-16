@@ -1,0 +1,12 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: blue;
+}
+
+p {
+  font-weight: 700;
+}
